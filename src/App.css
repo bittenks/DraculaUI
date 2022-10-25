@@ -43,6 +43,7 @@
   align-items: center;
   flex-direction: column;
 }
-.read-the-docs {
-  color: #888;
+.drac-avatar {
+  height: 6.4rem!important;
+  width: 6.5rem!important;
 }
